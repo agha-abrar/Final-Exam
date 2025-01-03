@@ -14,7 +14,7 @@ function ProgressBar(props) {
         <button className='update-button'>Update Progress</button>
         <button className='update-button'>Edit</button>
       </div>
-
+        </div>
     </>
   )
 }
