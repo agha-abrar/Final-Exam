@@ -1,12 +1,12 @@
 import './App.css'
-import ProgressBar from './components/ProgressBar'
+import AddAwards from './components/AddAwards';
 
 function App() {
  
 
   return (
     <>
-      <ProgressBar />
+      <AddAwards />
     </>
   )
 }
