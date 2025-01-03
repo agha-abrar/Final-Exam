@@ -6,7 +6,7 @@ function AddAwards() {
     let set = (event)=>{
         let text = event.target.noname.value;
 
-        setText(set);
+        setText(text);
 
     }
 
