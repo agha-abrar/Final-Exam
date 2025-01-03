@@ -14,8 +14,6 @@ function AddAwards() {
            <ProgressBar value={text}/> 
 
     }
-
-
     return (
     <>
 

@@ -1,12 +1,12 @@
 import './App.css'
-import AddAwards from './components/AddAwards';
+import FormComponent from './components/FormComponent';
 
 function App() {
  
 
   return (
     <>
-      <AddAwards />
+      <FormComponent />
     </>
   )
 }
